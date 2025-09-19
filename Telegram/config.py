@@ -1,0 +1,10 @@
+TELEGRAM_BOT_TOKEN = "8289306270:AAFfR2edKO0019xK0pHkolzOdBcDToWleGk"
+ONDE_API_TOKEN = "9e541a0d-fbe9-4df8-a455-b502d1f4a704"
+GOOGLE_MAPS_API_KEY = "AIzaSyBbKE7FYhO_kIncVnwbN28rZ5RJWBiVUbo"
+ONDE_HOST = "api.onde.app"
+ONDE_BASE_V1 = f"https://{ONDE_HOST}/dispatch/v1"
+ONDE_BASE_V2 = f"https://{ONDE_HOST}/dispatch/v2"
+ORDERS_DB_FILE = "orders.json"
+PROVIDER_TOKEN = "put the real one"
+INVOICE_CURRENCY = "put the real one"
+CURRENCY_SUB_UNITS = 100

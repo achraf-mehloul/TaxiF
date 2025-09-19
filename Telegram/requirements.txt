@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+requests==2.31.0
+websockets==11.0
+googlemaps==4.10.0
+aiohttp==3.8.4
